@@ -2,7 +2,7 @@
 Name:Shem sammy
 Reg No:PA106/G/28607/25
 Date:2nd Nov 2025
-Description: CAT2_Q2
+Description: A C Program to calculate and print gross pay, taxes and net pay
 */
 #include <stdio.h>
 
