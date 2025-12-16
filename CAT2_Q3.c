@@ -1,3 +1,9 @@
+/*
+Name:Shem Sammy
+Reg No:PA106/G/28607/25
+Description: A C Program to handle input, processing and output related to employees wages and taxes
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
