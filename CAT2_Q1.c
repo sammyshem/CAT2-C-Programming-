@@ -1,3 +1,11 @@
+/*
+Name:Shem sammy
+Reg No:PA106/G/28607/25
+Date:2nd Nov 2025
+Description: A C Program to define array data structure and initialize 2D Array,
+              and print  the elements of the array
+*/
+
 #include<stdio.h>
 
 int main() {
